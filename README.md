@@ -2,6 +2,7 @@
   Currículo Pessoal - Brayan Pletsch<br/>
   <a href="https://brayan-curriculo-pessoal.vercel.app/" target="_blank">Clique aqui para visualizar o currículo</a>
 </h1>
+
 Este é o repositório do meu **currículo online interativo**, construído com HTML e CSS para fornecer uma visão profissional e detalhada das minhas habilidades e experiências. O objetivo é destacar minhas competências como desenvolvedor Full Stack e permitir que recrutadores e profissionais da área possam interagir diretamente comigo através das redes e contatos fornecidos.
 
 ## Funcionalidades
